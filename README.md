@@ -1,4 +1,3 @@
-# KAIBURR_TASK1
 # Task Runner API (Backend)
 
 Spring Boot 3 (Java 17) REST API to create tasks and run them inside short‑lived Kubernetes pods, persisting results in MongoDB. Uses the Fabric8 Kubernetes client to create pods and capture their logs.
